@@ -137,7 +137,7 @@ a {	text-decoration: none; }
 	margin-bottom: 16px;
 }
 
-.slider_info .informacion .trabajo {
+.slider_info .informacion .Estudio {
 	color: #55acee;
 	font-size: 18px;
 	line-height: 18px;
@@ -199,7 +199,7 @@ a {	text-decoration: none; }
 	font-style:20px;
 	width: 50px;
 	height: 50px;
-	font-line:20px;
+	font:20px;
 	padding: 14px 0;
 	border-radius: 50%;
 	color: #fff;
@@ -208,4 +208,4 @@ a {	text-decoration: none; }
 
 .redes-sociales .behance { background: #1769ff; }
 .redes-sociales .facebook { background: #3b5998; }
-.redes-sociales .twitter { background: #55acee; }
+.redes-sociales .instagram { background: #c13584; }
